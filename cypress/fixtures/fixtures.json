@@ -1,0 +1,16 @@
+{
+    "appData": {
+        "urlLogin": "",
+        "urlApi": ""
+    },
+    "credentials": {
+        "username": "",
+        "password": ""
+    },
+    "webElements": {
+        "cookiesBox": "#popmake-57",
+        "cookiesCloseBtn": ".popmake-close",
+        "entryViewBtn": "[name='tablepress-2_length']",
+        "darkModeBtn": "#dark-mode-toggler"
+    }
+}
